@@ -7,6 +7,6 @@
 
 # Local History for Visual Studio Code
 .history/
-
+/anotacao.txt
 # Built Visual Studio Code Extensions
 *.vsix
